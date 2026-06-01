@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# System files
+Thumbs.db
+
+# Data / datasets
+data/
+datasets/
+rcv1/
+FILES/
+
+# Generated outputs
+compressed_indexes/
+results/
+outputs/
+tmp/
+
+# Binary index files
+*.bin
+*.index
+
+# Index structures
+lexicon*
+posting*
+postings*
+*.lexicon
+*.posting
+*.postings
+
+# Data formats
+*.csv
+*.json
+*.pkl
+
+# Generated figures
+*.png
+*.pdf
