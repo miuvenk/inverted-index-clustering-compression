@@ -180,17 +180,6 @@ The comparison includes:
 
 ---
 
-# Technologies
-
-- Python
-- NumPy
-- scikit-learn
-- SciPy
-- Jupyter Notebook
-- Google OR-Tools
-
----
-
 # Repository Structure
 
 ```text
@@ -203,40 +192,8 @@ The comparison includes:
 
 ---
 
-# Running the Project
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
-# Research Motivation
-
-Documents sharing many common terms tend to produce smaller posting list gaps when assigned nearby DocIDs.
-
-This project investigates whether clustering-based document ordering can improve inverted index compression in a scalable way compared to traditional TSP-based approaches.
-
----
-
-# References
-
-- Introduction to Information Retrieval — Manning, Raghavan, Schütze
-- Faster Top-k Document Retrieval Using Block-Max Indexes (SIGIR 2011)
-- Google OR-Tools Documentation
-
----
-
 # Author
 
-Esma Nur Kocakaya  
+Esma Nur Kocakaya  & 
 MSc Computer Science and Information Technology  
 Ca' Foscari University of Venice
